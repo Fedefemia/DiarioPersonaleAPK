@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d1trQiIbg3k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fedee\\Desktop\\Diario-personale\\Diario-personale\\Diario-personale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedee\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\fedee\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
