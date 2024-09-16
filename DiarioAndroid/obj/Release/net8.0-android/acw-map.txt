@@ -1,0 +1,3 @@
+DiarioAndroid.MainActivity, DiarioAndroid;crc64f30f7ce62edfdbb2.MainActivity
+DiarioAndroid.MainActivity;crc64f30f7ce62edfdbb2.MainActivity
+diarioandroid.MainActivity;crc64f30f7ce62edfdbb2.MainActivity
